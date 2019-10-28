@@ -4,201 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf9287d-9f8f-42cb-9119-3fe20349e63a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/opencvtube.sublime-project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/opencvtube.sublime-workspace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/runtime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/camera-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_eye_tree_eyeglasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_frontalcatface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_frontalcatface_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_frontalface_alt2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_frontalface_alt_tree.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_fullbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_lefteye_2splits.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_licence_plate_rus_16stages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_lowerbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_profileface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_righteye_2splits.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_russian_plate_number.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_smile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/data/haarcascade_upperbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/third-party/Nose18x15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/third-party/frontalEyes35x16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/cascades/third-party/frontalEyes35x16XML.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/faces-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/faces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/glasses_and_stash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/alwi-yahya/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/alwi-yahya/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/alwi-yahya/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/alwi-yahya/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/emilia-clarke/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/fun/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/fun/glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/fun/mustache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/justin/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/kit-harington/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/logo/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/logo/cfe-coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/logo/cfe-coffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/logo/cfe-coffee.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/nikolaj-coster-waldau/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/images/peter-dinklage/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/lessons/filter_lesson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/lessons/record-video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/lessons/timelapse-how-to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/lessons/watermark_lesson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/pickles/face-labels.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/recognizers/face-trainner.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/record.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/res-change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/timelapse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/watermark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/where-did-it-go.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/OpenCVThirdCaseCade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/camera-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_eye_tree_eyeglasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_frontalcatface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_frontalcatface_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_frontalface_alt2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_frontalface_alt_tree.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_fullbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_lefteye_2splits.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_licence_plate_rus_16stages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_lowerbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_profileface.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_righteye_2splits.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_russian_plate_number.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_smile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/data/haarcascade_upperbody.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/third-party/Nose18x15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/third-party/frontalEyes35x16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/cascades/third-party/frontalEyes35x16XML.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/faces-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/faces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/glasses_and_stash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/alwi-yahya/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/emilia-clarke/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/fun/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/fun/glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/fun/mustache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/justin/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/logo/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/logo/cfe-coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/logo/cfe-coffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/logo/cfe-coffee.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/nikolaj-coster-waldau/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/images/peter-dinklage/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/lessons/filter_lesson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/lessons/record-video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/lessons/timelapse-how-to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/lessons/watermark_lesson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/pickles/face-labels.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/recognizers/face-trainner.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/record.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/res-change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/saved-media/glasses_and_stash.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/saved-media/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/timelapse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/watermark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/OpenCV-Python-Series-master/where-did-it-go.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/herp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/live-video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/live_video2_Background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenCV-2/pill_01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenCV-2/opencv_tutorial_021.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV-2/opencv_tutorial_021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-NN/output/simple_neural_network.hdf5" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-NN/output/simple_neural_network.hdf5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-NN/simple_neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-NN/simple_neural_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mqtt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mqtt.py" afterDir="false" />
-    </list>
+    <list default="true" id="edf9287d-9f8f-42cb-9119-3fe20349e63a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,7 +141,7 @@
             <path>
               <item name="TF-TSF" type="b2602c69:ProjectViewProjectNode" />
               <item name="TF-TSF" type="462c0819:PsiDirectoryNode" />
-              <item name="cascades" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCV-2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -615,12 +421,20 @@
       <workItem from="1571649659114" duration="16534000" />
       <workItem from="1571913984973" duration="2285000" />
       <workItem from="1571975327422" duration="10255000" />
-      <workItem from="1572231646751" duration="15568000" />
+      <workItem from="1572231646751" duration="15821000" />
     </task>
+    <task id="LOCAL-00001" summary="senin">
+      <created>1572254610201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572254610201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392730000" />
+    <option name="totallyTimeSpent" value="392983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -633,9 +447,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23903178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3289689" />
@@ -657,7 +470,7 @@
       <window_info anchor="right" x="11" y="31" width="758" height="564" id="SciView" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Python Console" order="5" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="right" x="530" y="175" width="819" height="299" id="Run" order="6" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.14372164" />
+      <window_info anchor="right" x="530" y="175" width="819" height="299" id="Run" order="6" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.14372164" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19515885" />
@@ -686,6 +499,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="senin" />
+    <option name="LAST_COMMIT_MESSAGE" value="senin" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TF_TSF$regresiLinear.coverage" NAME="regresiLinear Coverage Results" MODIFIED="1569217878683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
