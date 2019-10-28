@@ -82,30 +82,30 @@ client.on_message = on_message
 client.connect("broker.hivemq.com", 1883, 60)
 client.loop_forever()
 
-# import paho.mqtt.client as mqtt
-#
-# def on_connect(client, userdata, flags, rc):
-#     print("connect with result code", str(rc))
-#     client.subscribe("coeg/1")
-#
-#
-# def on_message(cient, userdata, msg):
-#     print(msg.topic + " " + str(msg.payload))
-#
-#     if msg.payload == "ON":
-#         print("Led ON")
-#
-#     if msg.payload == "OFF":
-#         print("Led OFF")
-#
-#
+import paho.mqtt.client as mqtt
+
+def on_connect(client, userdata, flags, rc):
+    print("connect with result code", str(rc))
+    client.subscribe("coeg/1")
+
+
+def on_message(cient, userdata, msg):
+    print(msg.topic + " " + str(msg.payload))
+
+    if msg.payload == "ON":
+        print("Led ON")
+
+    if msg.payload == "OFF":
+        print("Led OFF")
+
+
 # try:
-#     client = mqtt.Client()
-#     client.on_connect = on_connect
-#     client.on_message = on_message
-#     client.connect("broker.hivemq.com", 1883, 60)
+client = mqtt.Client()
+client.on_connect = on_connect
+client.on_message = on_message
+client.connect("broker.hivemq.com", 1883, 60)
 #
 # except:
 #     print('jaringan jelek')
-#
-# client.loop_forever()
+
+client.loop_forever()

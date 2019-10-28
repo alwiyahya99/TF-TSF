@@ -64,8 +64,8 @@ print("[INFO] constructing training/testing split....")
 
 # mendefinisikan arsitekture jaringan
 model = Sequential()
-model.add(Dense(768, input_dim=3072, init="uniform", activation="relu"))
-model.add(Dense(384, activation="relu", kernel_initializer="uniform"))
+model.add(Dense(750, input_dim=3072, init="uniform", activation="relu"))
+model.add(Dense(350, activation="relu", kernel_initializer="uniform"))
 model.add(Dense(2))
 model.add(Activation("softmax"))
 
